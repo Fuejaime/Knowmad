@@ -38,3 +38,13 @@ The following topics will be considered:
 - Using Spring Boot
 - Using MockClient for testing
 - Using Circuit Breaker for resilience
+
+## POSSIBLE IMPROVEMENTS 
+- Control Advice
+- Improve some other point for resilience
+- Improve login for info 
+
+
+
+
+
